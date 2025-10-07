@@ -27,8 +27,7 @@
 # Clone the repository
 git clone https://github.com/yourusername/echo-meet.git
 cd echo-meet
-# Note
-In sing up / sign in dont give user name and user id same change a leeter or word  
+
 # Install dependencies
 npm install
 
