@@ -19,7 +19,7 @@
 | Real-Time     | WebRTC / Socket.IO             |
 | Database      | MongoDB / Firebase             |
 | Authentication| JWT / OAuth                    |
-| Deployment    | Vercel / Heroku / Docker       |
+| Deployment    | Vercel       |
 
 ## 📦 Installation
 
